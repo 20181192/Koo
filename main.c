@@ -28,7 +28,7 @@ int main(void){
     }
   }
  
-  printf("최소값은: %d", lowValue) ;
+  printf("최소값은: %d", lowValue) ;//
 
 
   return 0;
